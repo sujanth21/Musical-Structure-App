@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="category_button">#F06292</color>
+    <color name="library_category_bg">#EF5350</color>
+    <color name="artist_category_bg">#EC407A</color>
+    <color name="playlist_category_bg">#29B6F6</color>
+    <color name="store_category_bg">#FF7043</color>
 </resources>
