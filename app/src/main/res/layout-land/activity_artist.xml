@@ -57,7 +57,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Justin Timberlake"
+                android:text="Stray Cats"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -66,7 +66,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/timberlake" />
+                android:src="@drawable/artist1" />
 
         </LinearLayout>
 
@@ -79,7 +79,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A. R. Rahman"
+                android:text="Brian Setzer"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -88,7 +88,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/rahman" />
+                android:src="@drawable/artist2" />
 
         </LinearLayout>
 
@@ -101,7 +101,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Nicki Minaj"
+                android:text="JD McPherson"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -110,81 +110,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/niki" />
-
-        </LinearLayout>
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:orientation="horizontal">
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Justin Bieber"
-                android:textAlignment="center"
-                android:textStyle="bold" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="2dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/bieber" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Prince"
-                android:textAlignment="center"
-                android:textStyle="bold" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="2dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/prince" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:orientation="vertical">
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Rihanna"
-                android:textAlignment="center"
-                android:textStyle="bold" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="2dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/rihanna" />
+                android:src="@drawable/artist3" />
 
         </LinearLayout>
 
@@ -205,7 +131,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Taylor Swift"
+                android:text="Clairy Browne"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -214,7 +140,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/taylor" />
+                android:src="@drawable/artist4" />
 
         </LinearLayout>
 
@@ -227,7 +153,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Beyoncé"
+                android:text="The Cramps"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -236,7 +162,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/beyonce" />
+                android:src="@drawable/artist5" />
 
         </LinearLayout>
 
@@ -249,7 +175,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Eminem"
+                android:text="The Treblemakers"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -258,7 +184,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/eminem" />
+                android:src="@drawable/artist6" />
 
         </LinearLayout>
 
