@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_artist"
+    android:id="@+id/activity_music_library"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.sujanth.musicalstructureapp.ArtistActivity">
+    tools:context="com.sujanth.musicalstructureapp.MusicLibraryActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -14,18 +14,18 @@
         android:layout_marginTop="2dp">
 
         <ImageView
-            android:id="@+id/library_button"
+            android:id="@+id/playlist_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
-            android:src="@drawable/music_library" />
+            android:src="@drawable/playlist" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="@string/artist"
+            android:text="@string/library"
             android:textSize="20sp" />
 
         <ImageView
@@ -56,34 +56,34 @@
             android:background="@drawable/playlist_song_border"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="@string/library_classic_label"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
             <ImageButton
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/timberlake" />
+                android:src="@drawable/classiccollection" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/timberlake"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="2"
-                android:paddingLeft="10dp"
-                android:text="@string/desc_timberlake" />
+                android:text="@string/classic_song_one" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/born_timberlake" />
+                android:text="@string/classic_song_two" />
 
         </LinearLayout>
 
@@ -95,34 +95,34 @@
             android:background="@drawable/playlist_song_border"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="@string/library_latest_label"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
             <ImageButton
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/rahman" />
+                android:src="@drawable/latestcollection" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/rahman"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="2"
-                android:paddingLeft="10dp"
-                android:text="@string/desc_rahman" />
+                android:text="@string/latest_song_one" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/born_rahman" />
+                android:text="@string/latest_song_two" />
 
         </LinearLayout>
 
@@ -134,36 +134,37 @@
             android:background="@drawable/playlist_song_border"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="@string/library_famous_label"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
             <ImageButton
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/niki" />
+                android:src="@drawable/famouscollection" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/nicki"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="2"
-                android:paddingLeft="10dp"
-                android:text="@string/desc_nicki" />
+                android:text="@string/famous_song_one" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/born_nicki" />
+                android:text="@string/famous_song_two" />
 
         </LinearLayout>
+
 
     </LinearLayout>
 

@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="Music Store"
+            android:text="@string/store"
             android:textSize="20sp" />
 
         <ImageView
@@ -65,14 +65,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Chameleon"
+                android:text="@string/store_song_one"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -94,14 +94,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Paris"
+                android:text="@string/store_song_two"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -123,14 +123,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="I Don't Wanna"
+                android:text="@string/store_song_three"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -161,14 +161,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Human"
+                android:text="@string/store_song_four"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -190,14 +190,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Adore"
+                android:text="@string/store_song_five"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -219,14 +219,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Scars to your"
+                android:text="@string/store_song_six"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -257,14 +257,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="24K Magic"
+                android:text="@string/store_song_seven"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -286,14 +286,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Say You Won't"
+                android:text="@string/store_song_eight"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>
@@ -315,14 +315,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Call On Me"
+                android:text="@string/store_song_nine"
                 android:textAlignment="center" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="Buy Now"
+                android:text="@string/buy_now"
                 android:textAlignment="center" />
 
         </LinearLayout>

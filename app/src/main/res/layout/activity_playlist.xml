@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="Playlist"
+            android:text="@string/playlist"
             android:textSize="20sp" />
 
         <ImageView
@@ -55,7 +55,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="1. Chameleon"
+            android:text="@string/playlist_song_one"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -78,7 +78,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="2. Embrace"
+            android:text="@string/playlist_song_two"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -101,7 +101,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="3. The Truth"
+            android:text="@string/playlist_song_three"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -124,7 +124,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="4. Wild Strawberries"
+            android:text="@string/playlist_song_four"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -147,7 +147,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="5. With You Forever"
+            android:text="@string/playlist_song_five"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -170,7 +170,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="6. Solid Ground"
+            android:text="@string/playlist_song_six"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView
@@ -193,7 +193,7 @@
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:paddingTop="2dp"
-            android:text="7. Come Together"
+            android:text="@string/playlist_song_seven"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
         <ImageView

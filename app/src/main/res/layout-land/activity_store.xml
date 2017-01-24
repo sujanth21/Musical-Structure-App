@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_artist"
+    android:id="@+id/activity_store"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.sujanth.musicalstructureapp.ArtistActivity">
+    tools:context="com.sujanth.musicalstructureapp.StoreActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="@string/artist"
+            android:text="@string/store"
             android:textSize="20sp" />
 
         <ImageView
@@ -61,29 +61,28 @@
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/timberlake" />
+                android:src="@drawable/panu" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/timberlake"
-                android:textStyle="bold" />
+                android:text="@string/store_song_one" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="2"
                 android:paddingLeft="10dp"
-                android:text="@string/desc_timberlake" />
+                android:text="@string/desc_store_song_one" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingLeft="10dp"
-                android:text="@string/born_timberlake" />
+                android:text="@string/price_buy_now" />
 
         </LinearLayout>
 
@@ -100,29 +99,25 @@
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/rahman" />
+                android:src="@drawable/paris" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:paddingLeft="10dp"
-                android:text="@string/rahman"
-                android:textStyle="bold" />
+                android:text="@string/store_song_two" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="2"
-                android:paddingLeft="10dp"
-                android:text="@string/desc_rahman" />
+                android:text="@string/desc_store_song_two" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:paddingLeft="10dp"
-                android:text="@string/born_rahman" />
+                android:text="@string/price_buy_now" />
 
         </LinearLayout>
 
@@ -139,31 +134,28 @@
                 android:layout_height="0dp"
                 android:layout_margin="2dp"
                 android:layout_weight="5"
-                android:src="@drawable/niki" />
+                android:src="@drawable/zayn" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:paddingLeft="10dp"
-                android:text="@string/nicki"
-                android:textStyle="bold" />
+                android:text="@string/store_song_three" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="2"
-                android:paddingLeft="10dp"
-                android:text="@string/desc_nicki" />
+                android:text="@string/desc_store_song_three" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:paddingLeft="10dp"
-                android:text="@string/born_nicki" />
+                android:text="@string/price_buy_now" />
 
         </LinearLayout>
+
 
     </LinearLayout>
 

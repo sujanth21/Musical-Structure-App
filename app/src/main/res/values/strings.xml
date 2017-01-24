@@ -6,4 +6,60 @@
     <string name="playlist">Play List</string>
     <string name="artist">Artists</string>
     <string name="store">Store</string>
+
+    <!-- Artist strings values -->
+    <string name="timberlake">Justin Timberlake</string>
+    <string name="rahman">A. R. Rahman</string>
+    <string name="nicki">Nicki Minaj</string>
+    <string name="bieber">Justin Bieber</string>
+    <string name="prince">Prince</string>
+    <string name="rihanna">Rihanna</string>
+    <string name="swift">Taylor Swift</string>
+    <string name="beyoncé">Beyoncé</string>
+    <string name="eminem">Eminem</string>
+
+    <string name="desc_timberlake">Justin Randall Timberlake is an American singer.</string>
+    <string name="born_timberlake">Born: 31 January 1981</string>
+    <string name="desc_rahman">Allah-Rakha Rahman, is an Indian composer.</string>
+    <string name="born_rahman">Born: 6 January 1967</string>
+    <string name="desc_nicki">Nicki Minaj, is a Trinidadian-born American rapper.</string>
+    <string name="born_nicki">Born: 8 December 1982</string>
+
+    <!-- Library string values -->
+    <string name="library_classic_label">Classic Collection</string>
+    <string name="library_latest_label">Latest Collection</string>
+    <string name="library_famous_label">Famous Collection</string>
+    <string name="classic_song_one">1. When I fall in love</string>
+    <string name="classic_song_two">2. Queen of the hop</string>
+    <string name="latest_song_one">1. Love Yourself</string>
+    <string name="latest_song_two">2. I Took A Pill In Ibiza</string>
+    <string name="famous_song_one">1. Life On Mars?</string>
+    <string name="famous_song_two">2. Let It Be</string>
+
+    <!-- Playlist string values -->
+    <string name="playlist_song_one">1. Chameleon</string>
+    <string name="playlist_song_two">2. Embrace</string>
+    <string name="playlist_song_three">3. The Truth</string>
+    <string name="playlist_song_four">4. Wild Strawberries</string>
+    <string name="playlist_song_five">5. With You Forever</string>
+    <string name="playlist_song_six">6. Solid Ground</string>
+    <string name="playlist_song_seven">7. Come Together</string>
+
+    <!-- Store string values -->
+    <string name="buy_now">Buy Now</string>
+    <string name="store_song_one">Chameleon</string>
+    <string name="store_song_two">Paris</string>
+    <string name="store_song_three">I Don\'t Wanna</string>
+    <string name="store_song_four">Human</string>
+    <string name="store_song_five">Adore</string>
+    <string name="store_song_six">Scars to your</string>
+    <string name="store_song_seven">24K Magic</string>
+    <string name="store_song_eight">Say You Won\'t</string>
+    <string name="store_song_nine">Call On Me</string>
+
+    <string name="price_buy_now">$2.19   Buy Now</string>
+    <string name="desc_store_song_one">Released: 04 November 2016 ℗ 2016 etcetc Music Pty Ltd. www.etcetc.tv</string>
+    <string name="desc_store_song_two">Released: 13 January 2017 ℗ 2017 Disruptor Records/Columbia Records</string>
+    <string name="desc_store_song_three">Released: 09 December 2016 ℗ 2016 Universal Studios</string>
+
 </resources>

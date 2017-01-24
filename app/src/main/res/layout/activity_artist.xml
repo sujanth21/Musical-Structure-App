@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
-            android:text="Album Artists"
+            android:text="@string/artist"
             android:textSize="20sp" />
 
         <ImageView
@@ -57,7 +57,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Justin Timberlake"
+                android:text="@string/timberlake"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -79,7 +79,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="A. R. Rahman"
+                android:text="@string/rahman"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -101,7 +101,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Nicki Minaj"
+                android:text="@string/nicki"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -131,7 +131,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Justin Bieber"
+                android:text="@string/bieber"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -153,7 +153,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Prince"
+                android:text="@string/prince"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -175,7 +175,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Rihanna"
+                android:text="@string/rihanna"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -205,7 +205,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Taylor Swift"
+                android:text="@string/swift"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -227,7 +227,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Beyoncé"
+                android:text="@string/beyoncé"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
@@ -249,7 +249,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Eminem"
+                android:text="@string/eminem"
                 android:textAlignment="center"
                 android:textStyle="bold" />
 
