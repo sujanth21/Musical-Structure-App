@@ -6,8 +6,12 @@
     <string name="playlist">Play List</string>
     <string name="artist">Artists</string>
     <string name="store">Store</string>
+    <string name="play">Play Music</string>
+
+    <string name="text_desc_main">This activity displays different options that help the user to navigate throughout this application</string>
 
     <!-- Artist strings values -->
+    <string name="text_desc_artist">This activity displays artists details</string>
     <string name="timberlake">Justin Timberlake</string>
     <string name="rahman">A. R. Rahman</string>
     <string name="nicki">Nicki Minaj</string>
@@ -26,6 +30,7 @@
     <string name="born_nicki">Born: 8 December 1982</string>
 
     <!-- Library string values -->
+    <string name="text_desc_library">This activity displays collections of music libraries</string>
     <string name="library_classic_label">Classic Collection</string>
     <string name="library_latest_label">Latest Collection</string>
     <string name="library_famous_label">Famous Collection</string>
@@ -37,6 +42,7 @@
     <string name="famous_song_two">2. Let It Be</string>
 
     <!-- Playlist string values -->
+    <string name="text_desc_playlist">This activity displays collections of songs in a playlist</string>
     <string name="playlist_song_one">1. Chameleon</string>
     <string name="playlist_song_two">2. Embrace</string>
     <string name="playlist_song_three">3. The Truth</string>
@@ -46,6 +52,7 @@
     <string name="playlist_song_seven">7. Come Together</string>
 
     <!-- Store string values -->
+    <string name="text_desc_store">This activity displays collections of songs from app\'s music store</string>
     <string name="buy_now">Buy Now</string>
     <string name="store_song_one">Chameleon</string>
     <string name="store_song_two">Paris</string>
@@ -61,5 +68,12 @@
     <string name="desc_store_song_one">Released: 04 November 2016 ℗ 2016 etcetc Music Pty Ltd. www.etcetc.tv</string>
     <string name="desc_store_song_two">Released: 13 January 2017 ℗ 2017 Disruptor Records/Columbia Records</string>
     <string name="desc_store_song_three">Released: 09 December 2016 ℗ 2016 Universal Studios</string>
+
+    <!-- Play music string values-->
+    <string name="text_desc_playmusic">This activity displays music player to play songs</string>
+    <string name="external_music_player_class_info">Android provides many ways to control playback of audio/video files and streams. One of this way is through a class called MediaPlayer.
+            \n\nAndroid is providing MediaPlayer class to access built-in mediaplayer services like playing audio,video e.t.c.
+            \n\nPlay Music activity will use the MediaPlayer class to achieve the goal.
+            \n\nFor Reference: https://developer.android.com/guide/topics/media/mediaplayer.html</string>
 
 </resources>

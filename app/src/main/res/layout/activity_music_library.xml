@@ -45,6 +45,15 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/text_desc_library"
+        android:background="@drawable/playlist_song_border"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:text="@string/library_classic_label" />
 
